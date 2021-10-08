@@ -19,3 +19,6 @@ Explore_bikeshare_data.ipynb
 https://github.com/jaycode/udacity-explore_bikeshare_data-R/blob/master/Explore_bikeshare_data.ipynb
 https://www.earthdatascience.org/courses/earth-analytics/time-series-data/summarize-time-series-by-month-in-r/
 https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html
+
+### CHANGE 1
+I am making the first additional change... God bless Udacity!
